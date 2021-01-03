@@ -3,7 +3,7 @@
 ## Connect to Virtualenv
 
 On Windows run `.\env\Scripts\activate`.
-On Mac/Linux run `source/bin/activate`.
+On Mac/Linux run `source bin/activate`.
 
 ## Development server
 
